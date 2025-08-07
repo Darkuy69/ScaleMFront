@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "customerName": "Carlos Motors",
+    "phone": "809-555-1234"
+  },
+  {
+    "id": 2,
+    "customerName": "Speedline Imports",
+    "phone": "809-888-9876"
+  }
+]

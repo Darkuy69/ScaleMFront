@@ -3,6 +3,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddHttpClient<Frontend_ScaleM.Services.ClientesService>();
+builder.Services.AddScoped<Frontend_ScaleM.Services.IClientesService, Frontend_ScaleM.Services.ClientesService>();
+// ProductosService
+builder.Services.AddHttpClient<Frontend_ScaleM.Services.ProductosService>();
+builder.Services.AddScoped<Frontend_ScaleM.Services.IProductosService, Frontend_ScaleM.Services.ProductosService>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

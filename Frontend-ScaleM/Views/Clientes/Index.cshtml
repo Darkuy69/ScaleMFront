@@ -1,0 +1,26 @@
+﻿@model List<Frontend_ScaleM.Models.Cliente>
+@{
+   
+}
+
+<h2>Lista de Clientes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Teléfono</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.Id</td>
+                <td>@cliente.CustomerName</td>
+                <td>@cliente.Phone</td>
+            </tr>
+        }
+    </tbody>
+</table>

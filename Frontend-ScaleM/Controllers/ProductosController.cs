@@ -1,14 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Frontend_ScaleM.Services;
 
 namespace Frontend_ScaleM.Controllers
 {
     public class ProductosController : Controller
     {
-        public IActionResult Index()
+        private readonly IProductosService _service;
+
+        public ProductosController(IProductosService service)
         {
-            ViewData["Title"] = "Productos";
-            ViewData["ActivePage"] = "Productos";  // Establece la página activa
-            return View();
+            _service = service;
+        }
+
+        // GET: /Productos/JsonLines
+        public async Task<IActionResult> JsonLines()
+        {
+            var lineas = await _service.ObtenerLineasAsync();
+            return Json(lineas);
         }
     }
 }

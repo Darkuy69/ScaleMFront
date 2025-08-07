@@ -1,53 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\",
+  "WorkspaceRootPath": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\home\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\home\\pedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\pedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\victo\\onedrive\\escritorio\\frontend-scalem\\frontend-scalem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\wwwroot\\productlines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\wwwroot\\productlines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\models\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\models\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\service\\iproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\service\\iproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\service\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\service\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\service\\iclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\service\\iclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\wwwroot\\mocks\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\wwwroot\\mocks\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\home\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\reportes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\home\\pedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\pedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|c:\\users\\j\u00F3se angel mendez\\downloads\\frontend\\frontend\\frontend-scalem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C82F3A00-AABF-48D1-A6D8-D1ECF47FC210}|Frontend-ScaleM\\Frontend-ScaleM.csproj|solutionrelative:frontend-scalem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,189 +102,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1676313119:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReportesController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\ReportesController.cs",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\ReportesController.cs",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\ReportesController.cs",
-              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\ReportesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:53:28.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PedidosController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\PedidosController.cs",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\PedidosController.cs",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\PedidosController.cs",
-              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\PedidosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:53:12.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAmwDgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T13:52:49.941Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T13:52:43.009Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Program.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Program.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:57:54.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Reportes.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T13:49:42.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pedidos.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T13:49:40.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "Frontend-ScaleM\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T13:47:48.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvykAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IProductosService.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\IProductosService.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Service\\IProductosService.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\IProductosService.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Service\\IProductosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T13:47:48.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T22:17:44.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T13:49:43.018Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "ProductosService.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Models\\ProductosService.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Models\\ProductosService.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Models\\ProductosService.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Models\\ProductosService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:20:54.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAowIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T02:08:08.521Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "productlines.json",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\wwwroot\\productlines.json",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\wwwroot\\productlines.json",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\wwwroot\\productlines.json",
+              "RelativeToolTip": "Frontend-ScaleM\\wwwroot\\productlines.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T22:23:09.049Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ClientesService.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\ClientesService.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Service\\ClientesService.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\ClientesService.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Service\\ClientesService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:01:51.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:34:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKkAAAAAAAAAAIBJwL4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T02:54:37.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-08T21:38:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientesService.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\IClientesService.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Service\\IClientesService.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Service\\IClientesService.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Service\\IClientesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:56:39.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\appsettings.json",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\appsettings.json",
+              "RelativeToolTip": "Frontend-ScaleM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T21:52:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Models\\Cliente.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T21:32:44.478Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "clientes.json",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\wwwroot\\mocks\\clientes.json",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\wwwroot\\mocks\\clientes.json",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\wwwroot\\mocks\\clientes.json",
+              "RelativeToolTip": "Frontend-ScaleM\\wwwroot\\mocks\\clientes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T21:29:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T13:52:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Reportes\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T13:52:43.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reportes.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Reportes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T13:49:42.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:53:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:53:28.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pedidos.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Pedidos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T13:49:40.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Frontend-ScaleM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvykAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:47:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T13:49:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T02:08:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Frontend-ScaleM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKkAAAAAAAAAAIBJwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T02:54:37.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\Escritorio\\Frontend-ScaleM\\Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\J\u00F3se Angel Mendez\\Downloads\\frontend\\frontend\\Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Frontend-ScaleM\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAH8AAAAAAAAAAAAqwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T02:52:10.453Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 384,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2025-08-07T02:52:10.453Z"
             }
           ]
         }

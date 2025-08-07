@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Frontend-ScaleM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87686e56dff5311917d9e9882b510b111ce3843c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Frontend-ScaleM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Frontend-ScaleM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
