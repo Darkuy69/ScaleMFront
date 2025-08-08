@@ -1,0 +1,143 @@
+﻿@{
+    ViewData["Title"] = "Productos";
+    ViewData["ActivePage"] = "Productos";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h1 id="Titulo" class="fw-bold">Diseño Atemporal</h1>
+            <h1 id="Titulo2" class="fw-bold">Materiales Premium</h1>
+            <p>Ya sea que prefieras el minimalismo moderno, los clásicos atemporales o las piezas audaces y llamativas.</p>
+
+            <!-- Cualidades -->
+            <div class="row mt-4">
+                <div class="col-md-12">
+                    <h5 class="features-title">
+                        <span class="feature-item">Calidad</span>
+                        <span class="feature-item">Exclusividad</span>
+                        <span class="feature-item">Versatilidad</span>
+                        <span class="feature-item">Innovación</span>
+                        <span class="feature-item">Estilo</span>
+                    </h5>
+                </div>
+            </div>
+
+            <!-- Tabla de productos -->
+            <div class="mt-4">
+                <h4>Detalles del Producto</h4>
+                <table class="table table-striped table-bordered">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Producto</th>
+                            <th>Descripción</th>
+                            <th>Precio</th>
+                            <th>Disponibilidad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Modelo A</td>
+                            <td>Modelo a escala de coche clásico</td>
+                            <td>€50</td>
+                            <td>En stock</td>
+                        </tr>
+                        <tr>
+                            <td>Modelo B</td>
+                            <td>Modelo a escala de moto deportiva</td>
+                            <td>€60</td>
+                            <td>Agotado</td>
+                        </tr>
+                        <tr>
+                            <td>Modelo C</td>
+                            <td>Modelo exclusivo de coche de lujo</td>
+                            <td>€100</td>
+                            <td>En stock</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Estilos del card */
+    .card-custom {
+        background-color: #ffffff; /* Fondo blanco */
+        border-radius: 15px; /* Bordes redondeados */
+        padding: 20px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animación para hover */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    }
+
+        .card-custom:hover {
+            transform: translateY(-5px); /* Eleva ligeramente el card al pasar el mouse */
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* Aumenta la sombra */
+        }
+
+    .card-title {
+        font-size: 1.25rem;
+        color: #333;
+    }
+
+    .highlight {
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .card-text {
+        font-size: 1rem;
+        margin: 10px 0;
+    }
+
+    /* Mejora la visibilidad de los valores */
+    .highlight {
+        color: #007bff; /* Azul para los valores */
+    }
+
+    .feature-item {
+        border: 2px solid #6ce5e8;
+        padding: 5px 10px;
+        margin-right: 10px;
+        border-radius: 15px;
+        display: inline-block;
+    }
+
+    #Titulo {
+        font-size: 60px;
+        margin-top: -20px;
+    }
+
+    #Titulo2 {
+        font-size: 60px;
+    }
+
+    .feature-item:hover {
+        background-color: #6ce5e8;
+        color: white;
+    }
+
+    /* Estilos para la tabla */
+    table {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+        table th,
+        table td {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table th {
+            background-color: #f8f9fa;
+        }
+
+    /* Estilos adicionales */
+    .table-striped tbody tr:nth-child(odd) {
+        background-color: #f2f2f2;
+    }
+
+</style>
